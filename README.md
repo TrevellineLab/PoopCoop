@@ -4,7 +4,9 @@ A modular system for collecting fecal samples from small passerine birds.
 
 ## Overview
 The **PoopCoop** is a *reusable*, *transportable*, & *sterilizable* multi-chambered enclosure designed to *simplify* the collection of **fecal samples** from **small passerines**, intended for use by researchers working in *captive facilities* or *field settings* where organized, individual-level fecal sample collection is necessary.
+
 The enclosure can accommodate up to eight birds in individually accessible cabinet-style chambers, allowing samples to be collected while reducing *cross-contamination*, *handling requirements*, & *escape risk*.
+
 Constructed primarily from *cut acrylic* & utilizes *3D-printed sliding doors* made from PETG & TPU, its modular design allows for individual components to be *cleaned*, *replaced*, or *adapted* for differing research requirements.
 
 ## Features
@@ -45,13 +47,16 @@ The **PoopCoop** was developed around four practical goals:
 
 ## Animal Welfare & Research Compliance
 The **PoopCoop** is a research apparatus & *not* a direct substitute for appropriate animal-care protocols.
+
 **Researchers are responsible** for evaluating the enclosure's suitability for *their* particular *study species*, *collection duration*, *environmental conditions*, & *institutional requirements*.
 
 All use involving live animals should be performed under applicable institutional approvals, permits, & animal-welfare protocols, an example being standards set by IACUC protocols.
+
 Subjects should be monitored throughout containment. Be sure to inspect the enclosure for sharp edges, insecure doors, & other potential hazards before use.
 
 ## Citation
 If the **PoopCoop** is used or adapted in a published research paper, please cite:
+
 `Citation information to be ratified soon!`
 
 ## License

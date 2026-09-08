@@ -63,7 +63,7 @@ If the **PoopCoop** is used or adapted in a published research paper, please cit
 ## License
 Licensing information is currently being revised & ratified.
 
-### Project Status
+## Project Status
 The **PoopCoop** is currently a *validated prototype*, & as such, *design files* & *documentation* may change as the system is tested & refined.
 
 

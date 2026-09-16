@@ -50,7 +50,7 @@ The **PoopCoop** was developed around *four* practical goals:
 ## Animal Welfare & Research Compliance
 ***Researchers are responsible*** for evaluating the enclosure's suitability for *their* particular *study species*, *collection duration*, *environmental conditions*, & individual *institutional requirements*.
 
-The **PoopCoop** was designed at **Kent State University** by the **Trevelline Lab of Microbiology** & integrated under **IACUC** protocol **26-573-BT**. 
+The **PoopCoop** was designed at **Kent State University** by the **Trevelline Lab of Host-Microbe Interactions** & integrated under **IACUC** protocol **26-573-BT**. 
 
 All use involving *live animals* should be performed under *applicable institutional approvals*, *permits*, & *animal-welfare protocols*.
 

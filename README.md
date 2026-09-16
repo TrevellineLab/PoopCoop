@@ -45,13 +45,14 @@ The **PoopCoop** was developed around *four* practical goals:
 1. **Sample integrity** - to *maintain* the identity of *collected samples* from individual birds.
 2. **Animal security** - to *reduce* opportunities for *escape* during containment & sample retrieval.
 3. **Research accessibility** - to allow samples & birds to be accessed through *independently operated sliding doors*.
+4. **Reproducibility** - to *ensure* that sample collection can be reproducible.
 
 ## Animal Welfare & Research Compliance
-The **PoopCoop** is a research apparatus & *not* a direct substitute for appropriate animal-care protocols.
+***Researchers are responsible*** for evaluating the enclosure's suitability for *their* particular *study species*, *collection duration*, *environmental conditions*, & individual *institutional requirements*.
 
-***Researchers are responsible*** for evaluating the enclosure's suitability for *their* particular *study species*, *collection duration*, *environmental conditions*, & *institutional requirements*.
+The **PoopCoop** was designed at **Kent State University** by the **Trevelline Lab of Microbiology** & integrated under **IACUC** protocol ####. 
 
-All use involving *live animals* should be performed under *applicable institutional approvals*, *permits*, & *animal-welfare protocols*, an example being standards set by **IACUC protocols**.
+All use involving *live animals* should be performed under *applicable institutional approvals*, *permits*, & *animal-welfare protocols*.
 
 Subjects should be *monitored throughout containment*. Be sure to inspect the enclosure for *sharp edges*, *insecure doors*, & other *potential hazards* before use.
 
@@ -61,9 +62,7 @@ If the **PoopCoop** is used or adapted in a published research paper, please cit
 `Citation information to be ratified soon!`
 
 ## License
-Licensing information is currently being revised & ratified.
+The copyright holder for the hardware is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. 
 
-## Project Status
-The **PoopCoop** is currently a *validated prototype*, & as such, *design files* & *documentation* may change as the system is tested & refined.
-
+It is made available under a **CC-BYNC-ND 4.0 International license**.
 
